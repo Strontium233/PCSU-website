@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c74486193b4dcbe8b05fc0e12a99ada7",
+    "revision": "39fab355f3f97ba319864e4d88beffbe",
     "url": "/PCSU-website/index.html"
   },
   {
-    "revision": "eb4a84cc36c3648d1bd5",
+    "revision": "ff0615c515f8a5b5f39f",
     "url": "/PCSU-website/static/css/main.c46e592d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PCSU-website/static/js/2.37435b43.chunk.js"
   },
   {
-    "revision": "eb4a84cc36c3648d1bd5",
-    "url": "/PCSU-website/static/js/main.60edb5f3.chunk.js"
+    "revision": "ff0615c515f8a5b5f39f",
+    "url": "/PCSU-website/static/js/main.b05aeef5.chunk.js"
   },
   {
     "revision": "6dcba77f50333bfeab87",
