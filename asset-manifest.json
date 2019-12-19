@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/PCSU-website/static/css/main.d7cd384c.chunk.css",
-    "main.js": "/PCSU-website/static/js/main.df36f5b7.chunk.js",
-    "main.js.map": "/PCSU-website/static/js/main.df36f5b7.chunk.js.map",
+    "main.js": "/PCSU-website/static/js/main.d509a950.chunk.js",
+    "main.js.map": "/PCSU-website/static/js/main.d509a950.chunk.js.map",
     "runtime-main.js": "/PCSU-website/static/js/runtime-main.0e4b3efe.js",
     "runtime-main.js.map": "/PCSU-website/static/js/runtime-main.0e4b3efe.js.map",
-    "static/js/2.3efe109b.chunk.js": "/PCSU-website/static/js/2.3efe109b.chunk.js",
-    "static/js/2.3efe109b.chunk.js.map": "/PCSU-website/static/js/2.3efe109b.chunk.js.map",
+    "static/js/2.1ed0b725.chunk.js": "/PCSU-website/static/js/2.1ed0b725.chunk.js",
+    "static/js/2.1ed0b725.chunk.js.map": "/PCSU-website/static/js/2.1ed0b725.chunk.js.map",
     "index.html": "/PCSU-website/index.html",
-    "precache-manifest.19cb23cda5a58e0e420d73bd96bf861e.js": "/PCSU-website/precache-manifest.19cb23cda5a58e0e420d73bd96bf861e.js",
+    "precache-manifest.6f06d47a0496a62b1d3fe84aa37e69e3.js": "/PCSU-website/precache-manifest.6f06d47a0496a62b1d3fe84aa37e69e3.js",
     "service-worker.js": "/PCSU-website/service-worker.js",
     "static/css/main.d7cd384c.chunk.css.map": "/PCSU-website/static/css/main.d7cd384c.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.0e4b3efe.js",
-    "static/js/2.3efe109b.chunk.js",
+    "static/js/2.1ed0b725.chunk.js",
     "static/css/main.d7cd384c.chunk.css",
-    "static/js/main.df36f5b7.chunk.js"
+    "static/js/main.d509a950.chunk.js"
   ]
 }

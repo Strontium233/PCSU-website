@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PCSU-website/precache-manifest.19cb23cda5a58e0e420d73bd96bf861e.js"
+  "/PCSU-website/precache-manifest.6f06d47a0496a62b1d3fe84aa37e69e3.js"
 );
 
 self.addEventListener('message', (event) => {
