@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/PCSU-website/static/css/main.d7cd384c.chunk.css",
-    "main.js": "/PCSU-website/static/js/main.d509a950.chunk.js",
-    "main.js.map": "/PCSU-website/static/js/main.d509a950.chunk.js.map",
-    "runtime-main.js": "/PCSU-website/static/js/runtime-main.0e4b3efe.js",
-    "runtime-main.js.map": "/PCSU-website/static/js/runtime-main.0e4b3efe.js.map",
-    "static/js/2.1ed0b725.chunk.js": "/PCSU-website/static/js/2.1ed0b725.chunk.js",
-    "static/js/2.1ed0b725.chunk.js.map": "/PCSU-website/static/js/2.1ed0b725.chunk.js.map",
-    "index.html": "/PCSU-website/index.html",
-    "precache-manifest.6f06d47a0496a62b1d3fe84aa37e69e3.js": "/PCSU-website/precache-manifest.6f06d47a0496a62b1d3fe84aa37e69e3.js",
-    "service-worker.js": "/PCSU-website/service-worker.js",
-    "static/css/main.d7cd384c.chunk.css.map": "/PCSU-website/static/css/main.d7cd384c.chunk.css.map"
+    "main.css": "/static/css/main.d7cd384c.chunk.css",
+    "main.js": "/static/js/main.d509a950.chunk.js",
+    "main.js.map": "/static/js/main.d509a950.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5f0a64b0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5f0a64b0.js.map",
+    "static/js/2.1ed0b725.chunk.js": "/static/js/2.1ed0b725.chunk.js",
+    "static/js/2.1ed0b725.chunk.js.map": "/static/js/2.1ed0b725.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.46a01f2f1f4d4c86dcdc839b1af47cff.js": "/precache-manifest.46a01f2f1f4d4c86dcdc839b1af47cff.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d7cd384c.chunk.css.map": "/static/css/main.d7cd384c.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e4b3efe.js",
+    "static/js/runtime-main.5f0a64b0.js",
     "static/js/2.1ed0b725.chunk.js",
     "static/css/main.d7cd384c.chunk.css",
     "static/js/main.d509a950.chunk.js"
