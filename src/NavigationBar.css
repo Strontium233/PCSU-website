@@ -1,0 +1,33 @@
+#navigationBar {
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    margin-top: 0;
+    overflow-y: auto;
+    
+}
+#navigationBar li a:hover{
+    background-color: azure;
+    color: black;
+}
+
+#navigationBar li a {
+    background-color: black;
+    color: white;
+    padding: 8px 16px;
+}
+
+#navigationBar li{
+    list-style-type: none;
+    display: inline-block;
+    
+}
+
+#navigationBar ul{
+    padding-inline-start: 0;
+    display: block;
+    margin-top: 0.5%;
+    width: 100%;
+}

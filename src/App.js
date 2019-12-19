@@ -3,10 +3,13 @@ import { Route, Switch, BrowserRouter } from 'react-router-dom';
 import './App.css';
 import HomePage from './Home'
 import InfoPage from './Info'
+import NavigaionBar from './NavigationBar'
+
 
 function App() {
   return (
     <div>
+        <NavigaionBar/>
         <BrowserRouter basename={window.location.pathname || ''}>
           <Switch> { /* Similar to a switch statement - shows the component depending on the URL path */ }
             { /* Each Route below shows a different component depending on the exact path in the URL  */ }
