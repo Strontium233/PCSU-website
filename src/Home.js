@@ -6,7 +6,6 @@ class HomePage extends React.Component{
     render(){
         return (
             <div>
-                
                 <h1 className = 'Header'>Hello! Bonjour!</h1>
                 <h2> Who are we? </h2>
                 <p> The Pharmaceutical Chemistry Student Union (PCSU) is a 

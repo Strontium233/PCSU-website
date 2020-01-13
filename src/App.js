@@ -1,22 +1,13 @@
 import React from 'react';
-import { Route, Switch, BrowserRouter } from 'react-router-dom';
 import './App.css';
-import HomePage from './Home'
-import InfoPage from './Info'
-import NavigaionBar from './NavigationBar'
+import NavigationBar from './NavigationBar'
 
 
 function App() {
   return (
     <div>
-        <NavigaionBar/>
-        <BrowserRouter basename={window.location.pathname || ''}>
-          <Switch> { /* Similar to a switch statement - shows the component depending on the URL path */ }
-            { /* Each Route below shows a different component depending on the exact path in the URL  */ }
-            <Route exact path='/' component={HomePage}/>
-            <Route exact path='/info' component={InfoPage}/>
-          </Switch>
-        </BrowserRouter>
+      <NavigationBar/>
+      <p className = "otanoshimini">This site is still working on progress.</p>
         <div>
           <p className="HomeDisclaimer" >DISCLAIMER: The content of this web site is entirely the responsibility of a 
           campus organization which is independent from the University of Toronto. The opinions
